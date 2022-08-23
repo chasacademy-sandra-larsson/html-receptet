@@ -18,10 +18,11 @@
 upp varje del med lämplig html-tagg.  
 
 4. Gör en peer-review med en klasskompis för att kontrollera det uppmärkta dokumentet. 
-- Visas HTML-dokumentet i webbläsaren som det är tänkt? Är syntaxen korrekt?
-- Ange vad som defineras som start- och sluttagg, attribut, nästlande element. 
-- Ange vilka element som är block- vs. inline-element. Vad är skillnaden?
-- Diskutera vad som är HTML:s roll inom webbutveckling?
+
+    1. Visas HTML-dokumentet i webbläsaren som det är tänkt? Är syntaxen korrekt?
+    2. Ange vad som defineras som start- och sluttagg, attribut, nästlande element. 
+    3. Ange vilka element som är block- vs. inline-element. Vad är skillnaden?
+    4. Diskutera vad som är HTML:s roll inom webbutveckling?
 
 ## Rekommenderade taggar för detta dokument: 
 
@@ -44,5 +45,6 @@ upp varje del med lämplig html-tagg.
 
 ```
 
-## Bra resurser
-[GGetting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+## Bra resurs
+[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+Eller Googla :-)
