@@ -14,7 +14,7 @@
     <!-- Här lägger jag mitt innehåll--> 
 </body>
 ```
-3. Lägg in all text från filen recipe.txt innanför body-taggen och strukturera html-dokumentet genom att märka 
+3. Lägg in all text från filen recipe.txt inuti body-taggen och strukturera html-dokumentet genom att märka 
 upp varje del med lämplig html-tagg.  
 
 4. Gör en peer-review med en klasskompis för att kontrollera det uppmärkta dokumentet. Validera även html-dokumentet på https://validator.w3.org/, blev resultatet felfritt, eller synliggjorde det andra fel/varningar?
