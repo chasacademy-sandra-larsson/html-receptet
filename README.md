@@ -13,6 +13,7 @@
 <body>
     <!-- Här lägger jag mitt innehåll--> 
 </body>
+</html>
 ```
 3. Lägg in all text från filen recipe.txt inuti body-taggen och strukturera html-dokumentet genom att märka 
 upp varje del med lämplig html-tagg.  
