@@ -46,7 +46,7 @@ upp varje del med lämplig html-tagg.
 <ol>                    Ordnad lista
 
 <a href="#">Länk</a>    Länk där adressen skrivs i #
-<img src="bild.jpg">    Bild
+<img src="bild.jpg" alt="Bildbeskrivning för tillgänglighet, SEO">  Bild
 
 ```
 
