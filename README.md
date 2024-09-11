@@ -48,6 +48,3 @@ upp varje del med lämplig html-tagg.
 4. Vad innebär det att validera ett html-dokument?
 
 
-```
-
-
