@@ -84,4 +84,4 @@ Följ nedanstående punkter för att komma igång:
 9. **Öppna ditt repository på GitHub**:
    - Gå tillbaka till ditt repository på GitHub och uppdatera sidan för att se de senaste ändringarna du har pushat.
 
-Det går också bra att använda tillvägagångssättet att **Publicera Branch** i VS Code, då skapas ett repo från VS Code. [Läs mer här](https://vscode.github.com/)
+Det går också bra att använda tillvägagångssättet **Publicera Branch** i VS Code, då skapas ett repo från VS Code. [Läs mer här](https://vscode.github.com/)
