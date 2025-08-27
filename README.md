@@ -1,4 +1,4 @@
-# HTML Receptet
+# 👩🏽‍💻 Övning: HTML Receptet
 
 1. Skapa filen index.html i VS Code
 2. Utgå från grundmallen för HTML 
@@ -40,14 +40,14 @@ upp varje del med lämplig html-tagg.
 ```
 
 
-## Diskutera
+## 💬 Diskutera
 
 1. Vad har HTML för roll inom frontend?
 2. Vad defineras som start- och sluttagg, attribut, element?
 3. Vad är block- och inline-element? 
 4. Vad innebär det att validera ett html-dokument?
 
-## Sätt upp projektet med Github
+## 📌 Pusha upp din kod till Github 
 
 Följ nedanstående punkter för att komma igång:
 
@@ -84,4 +84,3 @@ Följ nedanstående punkter för att komma igång:
 9. **Öppna ditt repository på GitHub**:
    - Gå tillbaka till ditt repository på GitHub och uppdatera sidan för att se de senaste ändringarna du har pushat.
 
-Det går också bra att använda tillvägagångssättet **Publicera Branch** i VS Code, då skapas ett repo från VS Code. [Läs mer här](https://vscode.github.com/)
