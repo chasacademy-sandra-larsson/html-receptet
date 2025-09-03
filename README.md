@@ -51,12 +51,12 @@ upp varje del med lämplig html-tagg.
 
 Följ nedanstående punkter för att komma igång:
 
-1. **Skaffa ett konto på GitHub** om ni inte redan har ett.
+1. **Skaffa ett konto på GitHub** om du inte redan har ett.
 
 2. **Gå till GitHub** och skapa ett nytt repository:
    - Klicka på **New Repository**.
    - Namnge repositoryt efter uppgiften.
-   - Välj **Public** för att jag ska kunna se koden.
+   - Välj **Public** om alla ska kunna se **Private** om bara du kan se (eller inbjudan till repot)
    - Lämna alla andra inställningar som standard och klicka på **Create Repository**.
 
 3. **Kopiera klonings-URL:en** för repositoryt:
